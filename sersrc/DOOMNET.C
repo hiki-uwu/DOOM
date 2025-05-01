@@ -7,7 +7,7 @@
 #include "doomnet.h"
 
 //#include "serstr.h"
-#include "ser_frch.h"		// FRENCH VERSION
+//#include "ser_frch.h"		// FRENCH VERSION
 
 #define DOOM2
 
